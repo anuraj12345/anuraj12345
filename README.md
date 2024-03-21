@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuraj12345
+- 👋 Hi, I’m @ANURAG 
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
